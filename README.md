@@ -20,3 +20,6 @@ Opolis periodically archives all data and documents using Filecoin. Members have
 
 ## Data Management Application
 [FUTURE] Members update any data associated with their membership through an application that writes the data directly to the Textile bucket. Opolis's backoffice systems automatically detect and process an updates the member makes through this mechanism.
+
+
+[Submission for the Build an Open API spec bounty](https://www.ethdenver.com/post/opolis) (Bounty #4)
