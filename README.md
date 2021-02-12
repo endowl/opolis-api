@@ -1,6 +1,6 @@
 # Opolis API (Proposed)
 
-All documents and data associated with a member's Opolis membership and benefits are automatically stored in a private textile bucket encrypted with the members private key. Members can retreive data documents at will using textile's `hub` tool or other tools that use the Textile SDKs.
+All documents and data associated with a member's Opolis membership and benefits are automatically stored in a private textile bucket encrypted with the member's public key. Members can retrieve data documents at will using textile's `hub` tool or other tools that use the Textile SDKs.
 
 ## Access to documents
 * Documents are stored in the `docs` directory of the bucket.
