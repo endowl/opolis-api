@@ -1,5 +1,7 @@
 # Opolis API (Proposed)
 
+*Please note: This is a speculative document. Opolis doesn't have an API that works as described here. This document describes a proposal made to them in response to a bounty offered at EthDenver 2021 Hackathon. Opolis has indicated that this API isn't feasable because posting employment data publically (even if it is encrypted) is contrary to privacy laws of various jurisdications.*
+
 All documents and data associated with a member's Opolis membership and benefits are automatically stored in a private textile bucket encrypted with the member's public key. Members can retrieve data documents at will using textile's `hub` tool or other tools that use the Textile SDKs.
 
 ## Access to documents
